@@ -1,0 +1,16 @@
+C:\src\GrandXpress\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\src\GrandXpress\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\src\GrandXpress\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\src\GrandXpress\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\src\GrandXpress\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\src\GrandXpress\ConsoleApp1\bin\Debug\netcoreapp2.0\GrandXpress.Data.dll
+C:\src\GrandXpress\ConsoleApp1\bin\Debug\netcoreapp2.0\GrandXpress.Domain.dll
+C:\src\GrandXpress\ConsoleApp1\bin\Debug\netcoreapp2.0\GrandXpress.Domain.pdb
+C:\src\GrandXpress\ConsoleApp1\bin\Debug\netcoreapp2.0\GrandXpress.Data.pdb
+C:\src\GrandXpress\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\src\GrandXpress\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\src\GrandXpress\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\src\GrandXpress\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\src\GrandXpress\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CopyComplete
+C:\src\GrandXpress\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\src\GrandXpress\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb

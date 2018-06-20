@@ -1,0 +1,11 @@
+<div>
+ <h4>Trans maintenance</h4> 
+<table>
+  <tr><th>Name</th></tr>
+  <tr *ngFor="let tran of transactions">
+    <td>
+      <app-transaction-details [item]="tran"></app-transaction-details>
+    </td>
+  </tr>
+</table>
+</div>

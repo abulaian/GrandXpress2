@@ -1,0 +1,14 @@
+C:\src\GrandXpress\GrandXpress.Data\obj\Debug\netcoreapp2.0\GrandXpress.Data.csproj.CoreCompileInputs.cache
+C:\src\GrandXpress\GrandXpress.Data\obj\Debug\netcoreapp2.0\GrandXpress.Data.AssemblyInfoInputs.cache
+C:\src\GrandXpress\GrandXpress.Data\obj\Debug\netcoreapp2.0\GrandXpress.Data.AssemblyInfo.cs
+C:\src\GrandXpress\GrandXpress.Data\bin\Debug\netcoreapp2.0\GrandXpress.Data.deps.json
+C:\src\GrandXpress\GrandXpress.Data\bin\Debug\netcoreapp2.0\GrandXpress.Data.dll
+C:\src\GrandXpress\GrandXpress.Data\bin\Debug\netcoreapp2.0\GrandXpress.Data.pdb
+C:\src\GrandXpress\GrandXpress.Data\obj\Debug\netcoreapp2.0\GrandXpress.Data.dll
+C:\src\GrandXpress\GrandXpress.Data\obj\Debug\netcoreapp2.0\GrandXpress.Data.pdb
+C:\src\GrandXpress\GrandXpress.Data\obj\Debug\netcoreapp2.0\GrandXpress.Data.csprojResolveAssemblyReference.cache
+C:\src\GrandXpress\GrandXpress.Data\bin\Debug\netcoreapp2.0\GrandXpress.Data.runtimeconfig.json
+C:\src\GrandXpress\GrandXpress.Data\bin\Debug\netcoreapp2.0\GrandXpress.Data.runtimeconfig.dev.json
+C:\src\GrandXpress\GrandXpress.Data\bin\Debug\netcoreapp2.0\GrandXpress.Domain.dll
+C:\src\GrandXpress\GrandXpress.Data\bin\Debug\netcoreapp2.0\GrandXpress.Domain.pdb
+C:\src\GrandXpress\GrandXpress.Data\obj\Debug\netcoreapp2.0\GrandXpress.Data.csproj.CopyComplete

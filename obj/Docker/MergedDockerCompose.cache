@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  grandxpress.api:
+    build:
+      context: C:\src\GrandXpress
+      dockerfile: GrandXpress.API\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: grandxpressapi
+    ports:
+    - 80/tcp
+version: '3.0'

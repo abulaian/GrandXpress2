@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  grandxpress.api:
+    image: grandxpressapi
+    build:
+      context: .
+      dockerfile: GrandXpress.API\Dockerfile
